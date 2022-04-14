@@ -1,1 +1,7 @@
-teste
+//new branch
+ git checkout -b nome do branch
+//mudar para branch master 
+git checkout
+//download atualizar pasta
+git pull
+//atualizar upload
